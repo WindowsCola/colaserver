@@ -1,4 +1,26 @@
-# colaserver
-Welcome to cola self hosting server
-
-These are the places where stores the cola self hosting server.
+Server maintenance
+Unfortunately , since there is some faults in our servers ,this server will be down for a little while , sorry for inconvenience.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+https://windowscola.github.io/colaserver/
+colawindows
+2025 Right Reservered
