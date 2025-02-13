@@ -1,6 +1,4 @@
-<!DOCTYPE html>
 <html>
-
 <head>
   <!-- Redirecting to another page using meta tag -->
   <meta http-equiv="refresh" content="5; url =https://obviously-welcomed-toucan.ngrok-free.app/" />
