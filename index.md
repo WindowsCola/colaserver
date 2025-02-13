@@ -2,7 +2,6 @@
 <html>
 
 <head>
-  <title>Redirecting to Another page in HTML</title>
   <!-- Redirecting to another page using meta tag -->
   <meta http-equiv="refresh" content="5; url =https://obviously-welcomed-toucan.ngrok-free.app/" />
 </head>
